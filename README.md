@@ -34,5 +34,7 @@
 ## 7.测试提交代码
 1.使用bash窗口下的git命令 
 >git add .
+
 >git commit -m "注释说明"
+
 >git push origin main  //推送到远端
