@@ -38,3 +38,6 @@
 >git commit -m "注释说明"
 
 >git push origin main  //推送到远端
+
+## 8.Git 常用命令速查表
+![alt text](image-12.png)
